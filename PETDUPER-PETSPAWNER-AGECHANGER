@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/limithub19/Script/refs/heads/main/Scrept"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/limithub19/Testo/refs/heads/main/PETDUPER-AGECHANGER-PETSPAWNER-PETMUTATION"))()
